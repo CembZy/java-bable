@@ -1,0 +1,6 @@
+cn\enjoyedu\web\StompController.class
+cn\enjoyedu\WebSocketConfig.class
+cn\enjoyedu\domain\ChatRoomResponse.class
+cn\enjoyedu\WebMvcConfig.class
+cn\enjoyedu\domain\ChatRoomRequest.class
+cn\enjoyedu\StompApplication.class

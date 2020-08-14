@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="delayOrder (1):war exploded">
+    <output-path>$PROJECT_DIR$/activemq/delayOrder/target/delayOrder</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="delayOrder (1)" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/activemq/delayOrder/target/delayOrder/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="delayOrder (1)/web/Web" />
+    </root>
+  </artifact>
+</component>

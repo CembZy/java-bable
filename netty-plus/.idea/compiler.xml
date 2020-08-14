@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="advantage" />
+        <module name="basic" />
+        <module name="comet" />
+        <module name="stomp" />
+        <module name="udp" />
+        <module name="websocket" />
+        <module name="websocket-netty" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="advantage" target="7" />
+      <module name="advantage (1)" target="1.5" />
+      <module name="advantage (2)" target="7" />
+      <module name="basic" target="7" />
+      <module name="comet" target="7" />
+      <module name="comet (1)" target="1.5" />
+      <module name="comet (2)" target="7" />
+      <module name="netty-plus" target="7" />
+      <module name="netty-plus (1)" target="1.8" />
+      <module name="stomp" target="1.8" />
+      <module name="stomp (1)" target="1.8" />
+      <module name="stomp (2)" target="1.8" />
+      <module name="udp" target="7" />
+      <module name="websocket" target="1.8" />
+      <module name="websocket (1)" target="1.5" />
+      <module name="websocket (2)" target="1.8" />
+      <module name="websocket-netty" target="7" />
+      <module name="websocket-netty (1)" target="7" />
+      <module name="websocket-netty (2)" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

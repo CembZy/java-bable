@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../activemq/am-with-sprimg-c" />
+    <file type="web" url="file://$PROJECT_DIR$/../activemq/am-with-spring-p" />
+    <file type="web" url="file://$PROJECT_DIR$/../activemq/asyncApp" />
+    <file type="web" url="file://$PROJECT_DIR$/../activemq/delayOrder" />
+    <file type="web" url="file://$PROJECT_DIR$/rq-depot" />
+    <file type="web" url="file://$PROJECT_DIR$/rq-order" />
+    <file type="web" url="file://$PROJECT_DIR$/rq-spring-with" />
+    <file type="web" url="file://$PROJECT_DIR$/rq-spring-with-consumer" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../activemq/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../activemq/am-with-sprimg-c/pom.xml" />
+        <option value="$PROJECT_DIR$/../activemq/am-with-spring-p/pom.xml" />
+        <option value="$PROJECT_DIR$/../activemq/asyncApp/pom.xml" />
+        <option value="$PROJECT_DIR$/../activemq/delayOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/../activemq/no-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../activemq/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns:context="http://www.springframework.org/schema/context"
+	   xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans
+	 http://www.springframework.org/schema/beans/spring-beans.xsd
+	      http://www.springframework.org/schema/context
+                        http://www.springframework.org/schema/context/spring-context-3.1.xsd
+	 http://code.alibabatech.com/schema/dubbo
+	 http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+    <!-- 开启自动扫描注解 -->
+	<context:component-scan base-package="com.enjoy" />
+
+	<bean id="productService" class="com.enjoy.service.impl.ProductServiceImpl"/>
+	<!--<bean id="OrderService" class="com.enjoy.service.impl.OrderServiceImpl"/>-->
+	<bean id="UserService" class="com.enjoy.service.impl.UserServiceImpl"/>
+	<bean id="payService" class="com.enjoy.service.impl.PayServiceImpl"/>
+
+	<!-- 定义跳转的文件的前后缀 ，视图模式配置 -->
+	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="suffix">
+			<value>.jsp</value>
+		</property>
+	</bean>
+
+	<import resource="dubbo.xml" />
+
+</beans>

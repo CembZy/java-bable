@@ -1,0 +1,33 @@
+server:
+  port: 8601
+spring:
+  application:
+    name: microcloud-zipkin-server
+
+
+management:
+  metrics:
+    web:
+      server:
+        auto-time-requests: false
+
+
+zipkin:
+  collector:
+    sample-rate: 1.0
+    http:
+      enabled: false
+    rabbitmq:
+      addresses: localhost:5672
+      password: 5428325
+      queue: zipkin
+      username: enjoy
+      virtual-host: /
+  storage:
+    type: mysql
+    mysql:
+      host: localhost
+      port: 3306
+      username: root
+      password: root1234%
+      db: zipkin

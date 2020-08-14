@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<h1 id="text"></h1>
+
+<script src="jquery.min.js"></script>
+
+
+<script>
+    $(document).ready(function () {
+
+        var token = window.localStorage.getItem("token");
+        alert("token:" + token);
+
+        $.ajax({
+            url: "/test/echo",
+            type: 'get',
+            dataType: "json",
+            beforeSend: function (request) {
+                request.setRequestHeader("token", token);
+            },
+            contentType: "application/json;charset=UTF-8",
+            success: function (data) {
+                $("#text").html(data.msg);
+            },
+            error: function (data) {
+                $("#text").html(data.msg);
+            }
+        });
+
+    });
+
+
+</script>
+
+</body>
+</html>

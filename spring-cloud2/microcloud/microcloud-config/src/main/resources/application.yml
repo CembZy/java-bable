@@ -1,0 +1,20 @@
+server:
+  port: 7101
+
+spring:
+  application:
+    name: microcloud-config
+  cloud:
+      config:
+        server:
+          git:
+            uri: https://github.com/enjoyeud/microconfig.git
+
+
+eureka:
+ client:
+  service-url:
+    defaultZone: http://admin:enjoy@localhost:7301/eureka
+ instance:
+  prefer-ip-address: true # 在地址栏上使用IP地址进行显示
+  instance-id: microcloud-config1

@@ -1,0 +1,29 @@
+server:
+ port: 8401
+
+spring:
+  cloud:
+    stream:
+       rabbit:
+            bindings:
+                enjoy_output:
+                    producer:
+                       routingKeyExpression: '''enjoyKey'''
+       binders: # 在此处配置要绑定的rabbitmq的服务信息；
+          defaultRabbit: # 表示定义的名称，用于于binding整合
+            type: rabbit # 消息组件类型
+            environment: # 设置rabbitmq的相关的环境配置
+              spring:
+                rabbitmq:
+                   addresses: localhost
+                   port: 5672
+                   username: enjoy
+                   password: 5428325
+                   virtual-host: /
+       bindings: # 服务的整合处理
+        enjoy_output: # 这个名字是一个通道的名称，在分析具体源代码的时候会进行说明
+            destination: EnjoyExchange # 表示要使用的Exchange名称定义
+            content-type: application/json # 设置消息类型，本次为对象json，如果是文本则设置“text/plain”
+            binder: defaultRabbit # 设置要绑定的消息服务的具体设置
+  application:
+    name: microcloud-stream-provider

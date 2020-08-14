@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jwt/jwt.iml" filepath="$PROJECT_DIR$/jwt/jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro.iml" filepath="$PROJECT_DIR$/shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro-jwt/shiro-jwt.iml" filepath="$PROJECT_DIR$/shiro-jwt/shiro-jwt.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,47 @@
+server:
+  port: 8080
+
+spring:
+    datasource:
+        name: test
+        url: jdbc:mysql://127.0.0.1:3306/test?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+        username: root
+        password: root
+        type:  com.alibaba.druid.pool.DruidDataSource
+        driverClassName: com.mysql.cj.jdbc.Driver
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        filters: stat
+        maxActive: 20
+        initialSize: 1
+        maxWait: 60000
+        minIdle: 1
+        timeBetweenEvictionRunsMillis: 60000
+        minEvictableIdleTimeMillis: 300000
+        validationQuery: select 'x'
+        testWhileIdle: true
+        testOnBorrow: false
+        testOnReturn: false
+        poolPreparedStatements: true
+        maxOpenPreparedStatements: 20
+    application:
+        name: dubbo-product
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  config-location: classpath:mybatis-config.xml
+  type-aliases-package: com.product.demo.model
+
+
+## Dubbo 服务提供者配置
+dubbo:
+  application:
+    name: provider
+  registry:
+    address: zookeeper://171.8.71.245:2181
+  protocol:
+    name: dubbo
+    port: 20880
+  timeout: 10000
+
+
+

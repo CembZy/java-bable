@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="am-with-sprimg-c:war">
+    <output-path>$PROJECT_DIR$/../activemq/am-with-sprimg-c/target</output-path>
+    <root id="archive" name="am-with-sprimg-c.war">
+      <element id="artifact" artifact-name="am-with-sprimg-c:war exploded" />
+    </root>
+  </artifact>
+</component>

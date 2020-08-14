@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="am-with-sprimg-c" />
+        <module name="am-with-sprimg-c (2)" />
+        <module name="am-with-spring-p (2)" />
+        <module name="asyncApp" />
+        <module name="asyncApp (2)" />
+        <module name="delayOrder (2)" />
+        <module name="no-spring" />
+        <module name="no-spring (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activemq" target="1.5" />
+      <module name="activemq (1)" target="1.5" />
+      <module name="activemq (2)" target="1.5" />
+      <module name="am-springboot" target="1.8" />
+      <module name="am-with-sprimg-c" target="1.5" />
+      <module name="am-with-sprimg-c (2)" target="1.5" />
+      <module name="am-with-spring-p" target="1.5" />
+      <module name="am-with-spring-p (2)" target="1.5" />
+      <module name="asyncApp" target="1.5" />
+      <module name="asyncApp (2)" target="1.5" />
+      <module name="delayOrder (2)" target="1.5" />
+      <module name="ketang-mq" target="1.5" />
+      <module name="no-spring" target="1.5" />
+      <module name="no-spring (2)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

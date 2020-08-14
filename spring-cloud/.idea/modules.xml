@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumers/consumers.iml" filepath="$PROJECT_DIR$/consumers/consumers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumers-feign/consumers-feign.iml" filepath="$PROJECT_DIR$/consumers-feign/consumers-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumers-feign-custom/consumers-feign-custom.iml" filepath="$PROJECT_DIR$/consumers-feign-custom/consumers-feign-custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumers-ribbon/consumers-ribbon.iml" filepath="$PROJECT_DIR$/consumers-ribbon/consumers-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/earuka/earuka.iml" filepath="$PROJECT_DIR$/earuka/earuka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/earuka-ha/earuka-ha.iml" filepath="$PROJECT_DIR$/earuka-ha/earuka-ha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producters/producters.iml" filepath="$PROJECT_DIR$/producters/producters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+    </modules>
+  </component>
+</project>

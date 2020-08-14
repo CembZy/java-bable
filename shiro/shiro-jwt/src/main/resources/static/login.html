@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="in">
+    <h1>Login</h1>
+    账号：<input type="text" id="account"/>
+    密码：<input type="password" id="password"/>
+
+    <input type="button" value="登录" id="login"/>
+</div>
+
+<div id="out" style="display: none;">
+    <input type="button" value="退出" id="logout"/>
+</div>
+
+<hr/>
+<script src="jquery.min.js"></script>
+
+<script>
+    $("#login").click(function () {
+        user = {
+            "account": $("#account").val(),
+            "password": $("#password").val()
+        }
+        $.ajax({
+            url: "/test/login",
+            type: 'post',
+            data: JSON.stringify(user),
+            dataType: "json",
+            contentType: "application/json;charset=UTF-8",
+            success: function (data) {
+                alert("登录成功.");
+                window.localStorage.setItem("token", data.token);
+                $("#in").hide();
+                $("#out").show();
+            }
+        });
+    })
+
+
+    $("#logout").click(function () {
+        $.ajax({
+            url: "/test/logout",
+            type: 'get',
+            dataType: "json",
+            contentType: "application/json;charset=UTF-8",
+            success: function (data) {
+                window.localStorage.removeItem("token");
+                $("#in").show();
+                $("#out").hide();
+            }
+        });
+    })
+</script>
+
+</body>
+</html>

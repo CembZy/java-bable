@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mall-mvc:war">
+    <output-path>$PROJECT_DIR$/../mall-mvc/target</output-path>
+    <root id="archive" name="mall.war">
+      <element id="artifact" artifact-name="mall-mvc:war exploded" />
+    </root>
+  </artifact>
+</component>

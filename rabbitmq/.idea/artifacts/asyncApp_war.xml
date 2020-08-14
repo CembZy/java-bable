@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="asyncApp:war">
+    <output-path>$PROJECT_DIR$/../activemq/asyncApp/target</output-path>
+    <root id="archive" name="asyncApp.war">
+      <element id="artifact" artifact-name="asyncApp:war exploded" />
+    </root>
+  </artifact>
+</component>

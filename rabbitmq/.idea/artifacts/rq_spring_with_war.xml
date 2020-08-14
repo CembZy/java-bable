@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rq-spring-with:war">
+    <output-path>$PROJECT_DIR$/rq-spring-with/target</output-path>
+    <root id="archive" name="rabbitmq_producer.war">
+      <element id="artifact" artifact-name="rq-spring-with:war exploded" />
+    </root>
+  </artifact>
+</component>

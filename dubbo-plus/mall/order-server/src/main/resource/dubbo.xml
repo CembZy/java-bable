@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	 http://www.springframework.org/schema/beans/spring-beans.xsd
+	      http://www.springframework.org/schema/context
+                        http://www.springframework.org/schema/context/spring-context-3.1.xsd
+	 http://code.alibabatech.com/schema/dubbo
+	 http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!--扫描-->
+    <context:component-scan base-package="com.enjoy"/>
+
+    <dubbo:application name="order-server" />
+    <dubbo:registry address="zookeeper://172.17.0.2:2181" />
+
+    <!--name指示使用什么协议：dubbo/rmi/rest-->
+    <dubbo:protocol id="d1"  name="dubbo" port="20880" />
+    <dubbo:protocol id="d2"  name="dubbo" port="20882" />
+
+    <!--全局配置-->
+    <dubbo:provider timeout="3000" />
+    <dubbo:consumer timeout="2000" check="false" />
+
+    <dubbo:service interface="com.enjoy.service.OrderService" ref="orderService" protocol="d1" />
+
+    <dubbo:reference id="productService" interface="com.enjoy.service.ProductService" />
+    <bean id="orderService" class="com.enjoy.service.OrderServiceImpl" />
+
+
+
+</beans>

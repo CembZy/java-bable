@@ -1,0 +1,18 @@
+server:
+  port: 8081
+
+spring:
+    application:
+        name: dubbo-cusomer
+
+
+## Dubbo 服务提供者配置
+dubbo:
+  application:
+    name: cusomer
+  registry:
+    address: zookeeper://171.8.71.245:2181
+  protocol:
+    name: dubbo
+    port: 20880
+  timeout: 10000

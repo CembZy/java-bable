@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="delayOrder:war">
+    <output-path>$PROJECT_DIR$/../activemq/delayOrder/target</output-path>
+    <root id="archive" name="delayOrder.war">
+      <element id="artifact" artifact-name="delayOrder:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      uri:  http://localhost:7101
+      name: microcloud-config-product-client
+      profile:  beta
+      label:  master
+      username: admin
+      password: enjoy

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zookeeperRegister/orderService/orderService.iml" filepath="$PROJECT_DIR$/zookeeperRegister/orderService/orderService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeperRegister/productService/productService.iml" filepath="$PROJECT_DIR$/zookeeperRegister/productService/productService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeperConfig/zookeeperConfig.iml" filepath="$PROJECT_DIR$/zookeeperConfig/zookeeperConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeperLeader/zookeeperLeader.iml" filepath="$PROJECT_DIR$/zookeeperLeader/zookeeperLeader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeperLock/zookeeperLock.iml" filepath="$PROJECT_DIR$/zookeeperLock/zookeeperLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zookeeperProject.iml" filepath="$PROJECT_DIR$/.idea/zookeeperProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeperRegister/zookeeperRegister.iml" filepath="$PROJECT_DIR$/zookeeperRegister/zookeeperRegister.iml" />
+    </modules>
+  </component>
+</project>

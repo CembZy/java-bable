@@ -1,0 +1,24 @@
+<!DOCTYPE web-app PUBLIC
+        "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+
+    <!--配置项目启动初始化入口DispatcherServlet-->
+    <servlet>
+        <servlet-name>dispatcherServlet</servlet-name>
+        <servlet-class>com.cemb.ssm.coreservice.DispatcherServlet</servlet-class>
+
+        <!--
+        （1） load-on-startup 的值大于等于0，则伴随 Servlet 实例化后执行。
+        （2） load-on-startup 的值小于0 或者 不配置， 则在第一次 Servlet 请求的时候执行。
+        -->
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>dispatcherServlet</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+
+
+</web-app>

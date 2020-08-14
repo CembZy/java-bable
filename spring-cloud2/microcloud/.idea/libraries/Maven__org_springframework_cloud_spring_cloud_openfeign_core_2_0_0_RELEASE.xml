@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-openfeign-core:2.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.0.0.RELEASE/spring-cloud-openfeign-core-2.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.0.0.RELEASE/spring-cloud-openfeign-core-2.0.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.0.0.RELEASE/spring-cloud-openfeign-core-2.0.0.RELEASE-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-openfeign-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-openfeign-core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-openfeign-2.1.x/spring-cloud-openfeign-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-openfeign-2.1.x/spring-cloud-openfeign-core/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

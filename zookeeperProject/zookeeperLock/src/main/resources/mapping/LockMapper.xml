@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.enjoy.mapper.LockMapper" >
+
+
+
+  <delete id="deleteByPrimaryKey" parameterType="INTEGER" >
+    delete from t_lock
+    where id = #{code,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="INTEGER" >
+    insert into t_lock (id)
+    values (#{id,jdbcType=INTEGER})
+  </insert>
+ 
+  
+</mapper>

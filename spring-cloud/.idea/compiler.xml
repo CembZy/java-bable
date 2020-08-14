@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumers" />
+        <module name="consumers-feign" />
+        <module name="consumers-feign-custom" />
+        <module name="consumers-ribbon" />
+        <module name="earuka" />
+        <module name="earuka-ha" />
+        <module name="producters" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumers" target="1.8" />
+      <module name="consumers-feign" target="1.8" />
+      <module name="consumers-feign-custom" target="1.8" />
+      <module name="consumers-ribbon" target="1.8" />
+      <module name="earuka" target="1.8" />
+      <module name="earuka-ha" target="1.8" />
+      <module name="producters" target="1.8" />
+      <module name="spring-cloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

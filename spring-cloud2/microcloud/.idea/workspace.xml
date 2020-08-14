@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/microcloud-eureka3/src/main/resources/application.yml" line="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6253a0c-584d-4953-a123-1f4d02d4363c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-api/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-provider-product/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-security/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-eureka2/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-eureka3/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-provider-product3/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-provider-product2/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-consumer-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-consumer-feign/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-service/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-provider-product-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-consumer-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-provider-user-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-consumer-turbine/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-zuul-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-config/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-config-client/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-config-eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-config-product-client/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-ha-config-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-config3/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-config2/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-config-bus/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-config-bus-client/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-stream-provider/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-stream-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/microcloud-sleuth/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>register</find>
+      <find>cancel</find>
+      <find>Rule</find>
+      <find>appl'y</find>
+      <find>appl</find>
+      <find>ZoneAvoidancePredicate</find>
+      <find>ZoneSnapshot</find>
+      <find>getServer</find>
+      <find>chooseServer</find>
+      <find>ribbonRule</find>
+      <find>chooseRoundRobinAfterFiltering</find>
+      <find>applu</find>
+      <find>apply</find>
+      <find>spring-cloud-netflix</find>
+      <find>c</find>
+      <find>create</find>
+      <find>FeignClientFactoryBean</find>
+      <find>getob</find>
+      <find>client</find>
+      <find>dest</find>
+      <find>target</find>
+      <find>SynchronousMethodHandler</find>
+      <find>parseAndValidatateMetadat</find>
+      <find>registerBeanDefinitions</find>
+      <find>invoke</find>
+      <find>newInstance</find>
+      <find>FeignAutoConfiguration</find>
+      <find>registerDefaultConfiguration</find>
+      <find>parseAndValidateMetadata</find>
+      <find>hystrixCommandAnnotationPointcut</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\dev\mvn\org\springframework\cloud\spring-cloud-netflix-ribbon\2.0.0.RELEASE\spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar!\META-INF\maven\org.springframework.cloud</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/microcloud-config-product-client/src/main/java/cn/enjoy/ProductConfigApp.java" />
+        <option value="$PROJECT_DIR$/microcloud-ha-config-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-ha-config-eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-ha-config-eureka/src/main/java/cn/enjoy/HaConfigEurekaApp.java" />
+        <option value="$PROJECT_DIR$/microcloud-config3/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-config2/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-config2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-config3/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-config2/src/main/java/cn/enjoy/ConfigApp.java" />
+        <option value="$PROJECT_DIR$/microcloud-config2/src/main/java/cn/enjoy/ConfigApp2.java" />
+        <option value="$PROJECT_DIR$/microcloud-config3/src/main/java/cn/enjoy/ConfigApp.java" />
+        <option value="$PROJECT_DIR$/microcloud-config3/src/main/java/cn/enjoy/ConfigApp3.java" />
+        <option value="$PROJECT_DIR$/microcloud-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-config-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microcloud-config-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-config-bus/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-config-bus/src/main/java/cn/enjoy/ConfigBusApp.java" />
+        <option value="$PROJECT_DIR$/microcloud-config-bus-client/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-config-bus-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microcloud-config-bus-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-config-bus-client/src/main/java/cn/enjoy/config/InfoConfig.java" />
+        <option value="$PROJECT_DIR$/microcloud-config-bus-client/src/main/java/cn/enjoy/controller/ConfigClientController.java" />
+        <option value="$PROJECT_DIR$/microcloud-config-bus-client/src/main/java/cn/enjoy/ConfigClientBusApp.java" />
+        <option value="$PROJECT_DIR$/microcloud-stream-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-stream-provider/src/main/java/cn/enjoy/service/IMessageProvider.java" />
+        <option value="$PROJECT_DIR$/microcloud-stream-provider/src/main/java/cn/enjoy/StreamProviderApp.java" />
+        <option value="$PROJECT_DIR$/microcloud-stream-provider/src/test/java/cn/enjoy/test/TestMessageProvider.java" />
+        <option value="$PROJECT_DIR$/microcloud-stream-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-stream-consumer/src/main/java/cn/enjoy/StreamConsumerApp.java" />
+        <option value="$PROJECT_DIR$/microcloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-api/src/main/java/cn/enjoy/channel/DefaultProcess.java" />
+        <option value="$PROJECT_DIR$/microcloud-stream-provider/src/main/java/cn/enjoy/service/impl/MessageProviderImpl.java" />
+        <option value="$PROJECT_DIR$/microcloud-stream-consumer/src/main/java/cn/enjoy/listener/MessageListener.java" />
+        <option value="$PROJECT_DIR$/microcloud-stream-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-stream-provider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-sleuth/src/main/java/cn/enjoy/SleuthApp.java" />
+        <option value="$PROJECT_DIR$/microcloud-sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-sleuth/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-provider-user-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-provider-product-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/microcloud-consumer-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-zuul-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-provider-user-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-provider-product-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microcloud-service/src/main/java/cn/enjoy/feign/FeignClientConfig.java" />
+        <option value="$PROJECT_DIR$/microcloud-service/src/main/java/cn/enjoy/service/IProductClientService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\cleaning\maven\apache-maven-3.3.9\repo" />
+        <option name="mavenHome" value="E:/cleaning/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\cleaning\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-2" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microcloud-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microcloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microcloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microcloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microcloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microcloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microcloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microcloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="fallback" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ZuulProxyAutoConfiguration&#9;FILE&#9;file://F:/springcloudws/spring-cloud-netflix-2.1.x/spring-cloud-netflix-zuul/src/main/java/org/springframework/cloud/netflix/zuul/ZuulProxyAutoConfiguration.java&#10;ZuulProxyMarkerConfiguration&#9;FILE&#9;jar://D:/dev/mvn/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.0.RELEASE/spring-cloud-netflix-zuul-2.0.0.RELEASE.jar!/org/springframework/cloud/netflix/zuul/ZuulProxyMarkerConfiguration.class&#10;Observable&#9;FILE&#9;jar://D:/dev/mvn/io/reactivex/rxjava/1.2.0/rxjava-1.2.0.jar!/rx/Observable.class&#10;applyHystrixSemantics&#9;PSI&#9;JAVA://com.netflix.hystrix.AbstractCommand#applyHystrixSemantics&#10;AbstractCommand&#9;PSI&#9;JAVA://com.netflix.hystrix.AbstractCommand&#10;HystrixCommand&#9;PSI&#9;JAVA://com.netflix.hystrix.HystrixCommand&#10;GenericCommand&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12-sources.jar!/com/netflix/hystrix/contrib/javanica/command/GenericCommand.java&#10;HystrixCommandFactory&#9;PSI&#9;JAVA://com.netflix.hystrix.contrib.javanica.command.HystrixCommandFactory&#10;SynchronousMethodHandler&#9;FILE&#9;jar://D:/dev/mvn/io/github/openfeign/feign-core/9.5.1/feign-core-9.5.1-sources.jar!/feign/SynchronousMethodHandler.java&#10;ReflectiveFeign&#9;PSI&#9;JAVA://feign.ReflectiveFeign&#10;newInstance&#9;PSI&#9;JAVA://org.xml.sax.helpers.NewInstance&#10;SpringMvcContract&#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.support.SpringMvcContract&#10;ParseHandlersByName&#9;PSI&#9;JAVA://feign.ReflectiveFeign.ParseHandlersByName&#10;registerFeignClients&#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.FeignClientsRegistrar#registerFeignClients&#10;FeignContext&#9;FILE&#9;file://F:/springcloudws/spring-cloud-openfeign-2.1.x/spring-cloud-openfeign-core/src/main/java/org/springframework/cloud/openfeign/FeignContext.java&#10;f&#9;FILE&#9;file://F:/springcloudws/spring-cloud-openfeign-2.1.x/spring-cloud-openfeign-core/src/main/java/org/springframework/cloud/openfeign/EnableFeignClients.java&#10;InvocationHandlerFactory &#9;PSI&#9;JAVA://feign.InvocationHandlerFactory&#10;Default&#9;PSI&#9;JAVA://feign.Contract.Default&#10;Default &#9;PSI&#9;JAVA://feign.Client.Default&#10;NamedContextFactory&#9;FILE&#9;file://F:/springcloudws/spring-cloud-commons-2.1.x/spring-cloud-context/src/main/java/org/springframework/cloud/context/named/NamedContextFactory.java&#10;FeignAuto&#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.FeignAutoConfiguration&#10;Name&#9;FILE&#9;jar://D:/dev/mvn/org/springframework/cloud/spring-cloud-context/2.0.0.RELEASE/spring-cloud-context-2.0.0.RELEASE.jar!/org/springframework/cloud/context/named/NamedContextFactory.class&#10;NameConte&#9;FILE&#9;jar://D:/dev/mvn/org/springframework/cloud/spring-cloud-context/2.0.0.RELEASE/spring-cloud-context-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/context/named/NamedContextFactory.java&#10;e&#9;FILE&#9;jar://D:/dev/mvn/org/springframework/cloud/spring-cloud-openfeign-core/2.0.0.RELEASE/spring-cloud-openfeign-core-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/openfeign/EnableFeignClients.java&#10;OkHttpClient&#9;PSI&#9;JAVA://org.springframework.cloud.commons.httpclient.OkHttpClientFactory&#10;okhttpclient&#9;FILE&#9;jar://D:/dev/mvn/org/springframework/cloud/spring-cloud-commons/2.0.0.RELEASE/spring-cloud-commons-2.0.0.RELEASE.jar!/org/springframework/cloud/commons/httpclient/OkHttpClientFactory.class&#10;SynchronousMe&#9;PSI&#9;JAVA://feign.SynchronousMethodHandler&#10;FeignInvocationHandler&#9;PSI&#9;JAVA://feign.ReflectiveFeign.FeignInvocationHandler&#10;HystrixTargeter &#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.HystrixTargeter&#10;DefaultTargeter&#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.DefaultTargeter&#10;feignClientFa&#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.FeignClientFactoryBean&#10;FeignContentGzipEncodingAutoConfiguration &#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.encoding.FeignContentGzipEncodingAutoConfiguration&#10;AvailabilityPredicate&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/AvailabilityPredicate.java&#10;CompositePredicate&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/CompositePredicate.java&#10;ZoneAvoidancePredicate&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/ZoneAvoidancePredicate.java&#10;ZoneAvoidanceRule&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/ZoneAvoidanceRule.java&#10;RetryRule&#9;PSI&#9;JAVA://com.netflix.loadbalancer.RetryRule&#10;RibbonClientConfiguration&#9;FILE&#9;jar://D:/dev/mvn/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.0.RELEASE/spring-cloud-netflix-ribbon-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java&#10;ZoneAwareLoadBalancer&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java&#10;ZoneSnapshot&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/ZoneSnapshot.java&#10;ZoneAvoidanceRu&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/ZoneAvoidanceRule.java&#10;PredicateBasedRule&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/PredicateBasedRule.java&#10;ClientConfigEnabledRoundRobinRule&#9;PSI&#9;JAVA://com.netflix.loadbalancer.ClientConfigEnabledRoundRobinRule&#10;RibbonclientConfig&#9;FILE&#9;jar://D:/dev/mvn/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.0.RELEASE/spring-cloud-netflix-ribbon-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java&#10;PeerAwareInstanceRegistryImpl&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java&#10;AbstractInstanceRegistry&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java&#10;BaseLoadBalancer&#9;PSI&#9;JAVA://com.netflix.loadbalancer.BaseLoadBalancer&#10;restc&#9;FILE&#9;file://F:/springcloudws/microcloud/microcloud-consumer/src/main/java/cn/enjoy/config/RestConfig.java&#10;Peer&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java&#10;DiscoveryClient&#9;FILE&#9;jar://D:/dev/mvn/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/DiscoveryClient.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40358743" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.enjoy.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerFeignApp">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ConsumerFeignApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microcloud-consumer-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoy.ConsumerFeignApp" />
+    </configuration>
+    <configuration name="EurekaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microcloud-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoy.EurekaApp" />
+    </configuration>
+    <configuration name="ProductHystrixApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microcloud-provider-product-hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoy.ProductHystrixApp" />
+    </configuration>
+    <configuration name="StreamConsumerApp2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="microcloud-stream-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoy.StreamConsumerApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="UsersApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microcloud-provider-user-hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoy.UsersApp" />
+    </configuration>
+    <configuration name="ZuulApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microcloud-zuul-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoy.ZuulApp" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.StreamConsumerApp2" />
+      <item itemvalue="Spring Boot.EurekaApp" />
+      <item itemvalue="Spring Boot.UsersApp" />
+      <item itemvalue="Spring Boot.ProductHystrixApp" />
+      <item itemvalue="Spring Boot.ZuulApp" />
+      <item itemvalue="Spring Boot.ConsumerFeignApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerFeignApp" />
+        <item itemvalue="Spring Boot.ZuulApp" />
+        <item itemvalue="Spring Boot.ProductHystrixApp" />
+        <item itemvalue="Spring Boot.UsersApp" />
+        <item itemvalue="Spring Boot.EurekaApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6253a0c-584d-4953-a123-1f4d02d4363c" name="Default" comment="" />
+      <created>1552566458256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552566458256</updated>
+      <workItem from="1552566485476" duration="149000" />
+      <workItem from="1552566708893" duration="8356000" />
+      <workItem from="1552618167570" duration="109000" />
+      <workItem from="1552629286474" duration="3490000" />
+      <workItem from="1552633811380" duration="6491000" />
+      <workItem from="1552642212292" duration="1489000" />
+      <workItem from="1552697989155" duration="16675000" />
+      <workItem from="1552791221197" duration="1584000" />
+      <workItem from="1552796774563" duration="46000" />
+      <workItem from="1552823486539" duration="10243000" />
+      <workItem from="1552876137465" duration="378000" />
+      <workItem from="1552876760102" duration="2748000" />
+      <workItem from="1552888123627" duration="13880000" />
+      <workItem from="1552957646181" duration="2615000" />
+      <workItem from="1553062543615" duration="147000" />
+      <workItem from="1553067398891" duration="41091000" />
+      <workItem from="1569159099669" duration="1242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMessageProvider - 2019.03.27 at 20h 40m 03s.xml">
+      <configuration name="TestMessageProvider" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMessageProvider - 2019.03.27 at 20h 41m 46s.xml">
+      <configuration name="TestMessageProvider" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMessageProvider_testSend - 2019.03.27 at 20h 32m 26s.xml">
+      <configuration name="TestMessageProvider.testSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMessageProvider_testSend - 2019.03.27 at 20h 45m 50s.xml">
+      <configuration name="TestMessageProvider.testSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMessageProvider_testSend - 2019.03.27 at 20h 49m 00s.xml">
+      <configuration name="TestMessageProvider.testSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMessageProvider_testSend - 2019.03.27 at 20h 58m 53s.xml">
+      <configuration name="TestMessageProvider.testSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMessageProvider_testSend - 2019.03.27 at 21h 03m 54s.xml">
+      <configuration name="TestMessageProvider.testSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMessageProvider_testSend - 2019.03.27 at 21h 04m 33s.xml">
+      <configuration name="TestMessageProvider.testSend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMessageProvider_testSend - 2019.03.27 at 21h 04m 44s.xml">
+      <configuration name="TestMessageProvider.testSend" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142056000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924107" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32924107" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.14750378" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27928993" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32924107" />
+      <window_info id="Designer" order="4" />
+      <window_info anchor="bottom" id="Run with VisualVM" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29500756" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24900663" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3964497" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32924107" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32924107" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="0" />
+      <window_info id="Designer" order="4" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32924107" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.27928993" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Properties" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32924107" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32924107" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" weight="0.32924107" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.14750378" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29500756" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="3" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32924107" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24900663" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3964497" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microcloud-provider-product/src/main/java/cn/enjoy/controller/ProductController.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>228</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>374</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>312</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.5.1/feign-core-9.5.1-sources.jar!/feign/ReflectiveFeign.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.5.1/feign-core-9.5.1-sources.jar!/feign/SynchronousMethodHandler.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistry.java</url>
+          <line>37</line>
+          <properties class="com.netflix.eureka.registry.PeerAwareInstanceRegistry" method="syncUp">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microcloud-config-bus-client/src/main/java/cn/enjoy/config/InfoConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-config-bus-client/src/main/java/cn/enjoy/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-config-bus-client/src/main/java/cn/enjoy/ConfigClientBusApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-provider/src/main/java/cn/enjoy/service/IMessageProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-provider/src/main/java/cn/enjoy/StreamProviderApp.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-provider/src/test/java/cn/enjoy/test/TestMessageProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-consumer/src/main/java/cn/enjoy/StreamConsumerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/2.0.0.RELEASE/spring-cloud-stream-2.0.0.RELEASE.jar!/org/springframework/cloud/stream/messaging/Sink.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/2.0.0.RELEASE/spring-cloud-stream-2.0.0.RELEASE.jar!/org/springframework/cloud/stream/messaging/Source.class" />
+    <entry file="file://$PROJECT_DIR$/microcloud-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-api/src/main/java/cn/enjoy/channel/DefaultProcess.java" />
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-provider/src/main/java/cn/enjoy/service/impl/MessageProviderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-consumer/src/main/java/cn/enjoy/listener/MessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-stream-provider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-eureka/src/main/java/cn/enjoy/EurekaApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-zuul-gateway/src/main/java/cn/enjoy/ZuulApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-sleuth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="42" column="58" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-zuul-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-user-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-product-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-sleuth-zipkin/2.0.0.RELEASE/spring-cloud-sleuth-zipkin-2.0.0.RELEASE.jar!/org/springframework/cloud/sleuth/zipkin2/sender/ZipkinSenderProperties.class" />
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-feign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-zuul-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-user-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-sleuth/src/main/java/cn/enjoy/SleuthApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-sleuth/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-hystrix-dashboard/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-feign/src/main/java/cn/xiangxue/config/RibbonConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-product-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-product-hystrix/src/main/java/cn/enjoy/ProductHystrixApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-product-hystrix/src/main/java/cn/enjoy/service/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-product-hystrix/src/main/java/cn/enjoy/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-product-hystrix/src/main/java/cn/enjoy/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer/src/main/java/cn/enjoy/ConsumerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-feign/src/main/java/cn/enjoy/ConsumerFeignApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-feign/src/main/java/cn/enjoy/config/RestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <folding>
+            <element signature="e#0#1164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-feign/src/main/java/cn/enjoy/controller/ConsumerProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-hystrix-dashboard/src/main/java/cn/enjoy/HystrixDashboardApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-ribbon/src/main/java/cn/enjoy/ConsumerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-consumer-turbine/src/main/java/cn/enjoy/TurbineApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-user-hystrix/src/main/java/cn/enjoy/UsersApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-provider-user-hystrix/src/main/java/cn/enjoy/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-service/src/main/java/cn/enjoy/service/IZUUlClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-service/src/main/java/cn/enjoy/feign/FeignClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-service/src/main/java/cn/enjoy/service/IProductClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-service/src/main/java/cn/enjoy/service/fallback/IProductClientServiceFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microcloud-service/src/main/java/cn/enjoy/service/fallback/IZUUlClientServiceallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40358743" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40358743" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microcloud-sleuth</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40358743" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40358743" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

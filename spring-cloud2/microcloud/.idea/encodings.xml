@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-config-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-config-bus-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-config-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-config-product-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-config2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-config3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-consumer-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-consumer-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-consumer-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-eureka2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-eureka3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-ha-config-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-provider-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-provider-product-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-provider-product2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-provider-product3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-provider-user-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-sleuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-stream-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-stream-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud-zuul-gateway" charset="UTF-8" />
+  </component>
+</project>

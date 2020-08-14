@@ -1,0 +1,8 @@
+com\enjoy\entity\ProductEntiry.class
+com\enjoy\entity\OrderEntiry.class
+com\enjoy\service\PayService.class
+com\enjoy\service\VipUserService.class
+com\enjoy\entity\UserEntiry.class
+com\enjoy\service\UserService.class
+com\enjoy\service\ProductService.class
+com\enjoy\service\OrderService.class

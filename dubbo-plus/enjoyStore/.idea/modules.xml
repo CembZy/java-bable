@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/enjoyStore.iml" filepath="$PROJECT_DIR$/enjoyStore.iml" group="store" />
+      <module fileurl="file://$PROJECT_DIR$/storeServer/store_Server.iml" filepath="$PROJECT_DIR$/storeServer/store_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeServerApi/store_Server_Api.iml" filepath="$PROJECT_DIR$/storeServerApi/store_Server_Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeApi/store_api.iml" filepath="$PROJECT_DIR$/storeApi/store_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storePotal/store_portal.iml" filepath="$PROJECT_DIR$/storePotal/store_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store_spi/store_spi.iml" filepath="$PROJECT_DIR$/store_spi/store_spi.iml" />
+    </modules>
+  </component>
+</project>

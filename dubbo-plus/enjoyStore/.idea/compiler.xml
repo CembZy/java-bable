@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="store_api" />
+        <module name="store_portal" />
+        <module name="store_Server" />
+        <module name="store_Server_Api" />
+        <module name="store_spi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="enjoyStore" target="1.7" />
+      <module name="mall-mvc" target="1.8" />
+      <module name="mall-new" target="1.8" />
+      <module name="mall-support" target="1.7" />
+      <module name="order-server" target="1.7" />
+      <module name="store_api" target="1.7" />
+      <module name="store_portal" target="1.7" />
+      <module name="store_Server" target="1.7" />
+      <module name="store_Server_Api" target="1.7" />
+      <module name="store_spi" target="1.7" />
+      <module name="storeboot" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

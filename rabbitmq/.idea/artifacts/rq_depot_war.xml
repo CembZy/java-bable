@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rq-depot:war">
+    <output-path>$PROJECT_DIR$/rq-depot/target</output-path>
+    <root id="archive" name="rq-depot.war">
+      <element id="artifact" artifact-name="rq-depot:war exploded" />
+    </root>
+  </artifact>
+</component>

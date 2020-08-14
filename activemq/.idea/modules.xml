@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activemq (2).iml" filepath="$PROJECT_DIR$/activemq (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/am-springboot/am-springboot.iml" filepath="$PROJECT_DIR$/am-springboot/am-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq/am-with-sprimg-c/am-with-sprimg-c.iml" filepath="$PROJECT_DIR$/activemq/am-with-sprimg-c/am-with-sprimg-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/am-with-sprimg-c/am-with-sprimg-c (2).iml" filepath="$PROJECT_DIR$/am-with-sprimg-c/am-with-sprimg-c (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq/am-with-spring-p/am-with-spring-p.iml" filepath="$PROJECT_DIR$/activemq/am-with-spring-p/am-with-spring-p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/am-with-spring-p/am-with-spring-p (2).iml" filepath="$PROJECT_DIR$/am-with-spring-p/am-with-spring-p (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq/asyncApp/asyncApp.iml" filepath="$PROJECT_DIR$/activemq/asyncApp/asyncApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asyncApp/asyncApp (2).iml" filepath="$PROJECT_DIR$/asyncApp/asyncApp (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/delayOrder/delayOrder (2).iml" filepath="$PROJECT_DIR$/delayOrder/delayOrder (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ketang-mq.iml" filepath="$PROJECT_DIR$/ketang-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq/am-with-springboot/src/main/main.iml" filepath="$PROJECT_DIR$/activemq/am-with-springboot/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq/am-springboot/src/main/main1.iml" filepath="$PROJECT_DIR$/activemq/am-springboot/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq/no-spring/no-spring.iml" filepath="$PROJECT_DIR$/activemq/no-spring/no-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/no-spring/no-spring (2).iml" filepath="$PROJECT_DIR$/no-spring/no-spring (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq/am-with-springboot/src/test/test.iml" filepath="$PROJECT_DIR$/activemq/am-with-springboot/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq/am-springboot/src/test/test1.iml" filepath="$PROJECT_DIR$/activemq/am-springboot/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>

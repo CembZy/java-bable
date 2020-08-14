@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="native" />
+        <module name="rq-depot" />
+        <module name="rq-order" />
+        <module name="rq-spring-with" />
+        <module name="spring-with-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activemq" target="1.5" />
+      <module name="am-springboot" target="1.8" />
+      <module name="am-with-sprimg-c" target="1.5" />
+      <module name="am-with-spring-p" target="1.5" />
+      <module name="asyncApp" target="1.5" />
+      <module name="delayOrder" target="1.5" />
+      <module name="native" target="1.5" />
+      <module name="no-spring" target="1.5" />
+      <module name="rabbitmq" target="1.5" />
+      <module name="rq-depot" target="1.8" />
+      <module name="rq-order" target="1.5" />
+      <module name="rq-spring-with" target="1.5" />
+      <module name="spring-with-consumer" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

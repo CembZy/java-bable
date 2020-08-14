@@ -1,0 +1,31 @@
+server:
+  port: 7201
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/enjoyeud/microconfig.git
+    bus:
+      trace:
+        enabled: true
+  rabbitmq:
+    host: localhost
+    port: 5672    # RabbitMQ的监听端口
+    username: enjoy  # 用户名
+    password: 5428325 # 密码
+  application:
+    name: microcloud-config-bus
+
+eureka:
+ client:
+  serviceUrl:
+    defaultZone: http://admin:enjoy@localhost:7301/eureka
+ instance:
+    prefer-ip-address: true # 在地址栏上使用IP地址进行显示
+    instance-id: microcloud-config-bus
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

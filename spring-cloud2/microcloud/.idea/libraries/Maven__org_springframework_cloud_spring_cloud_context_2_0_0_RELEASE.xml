@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-context:2.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.0.RELEASE/spring-cloud-context-2.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.0.RELEASE/spring-cloud-context-2.0.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.0.RELEASE/spring-cloud-context-2.0.0.RELEASE-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-commons-2.1.x/spring-cloud-commons/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-commons-2.1.x/spring-cloud-commons/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-commons-2.1.x/spring-cloud-context-integration-tests/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-commons-2.1.x/spring-cloud-context/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-commons-2.1.x/spring-cloud-context/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-commons-2.1.x/spring-cloud-loadbalancer/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-commons-2.1.x/spring-cloud-loadbalancer/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../spring-cloud-commons-2.1.x/spring-cloud-test-support/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

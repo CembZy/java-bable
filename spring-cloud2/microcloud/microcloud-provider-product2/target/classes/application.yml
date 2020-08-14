@@ -1,0 +1,44 @@
+server:
+ port: 8081
+mybatis:
+ mapper-locations: # 所有的mapper映射文件
+ - classpath:mapping/*.xml
+spring:
+ application:
+   name: microcloud-provider-product
+ datasource:
+   type: com.alibaba.druid.pool.DruidDataSource # 配置当前要使用的数据源的操作类型
+   driver-class-name: com.mysql.cj.jdbc.Driver # 配置MySQL的驱动程序类
+   url: jdbc:mysql://localhost:3306/springcloud2?serverTimezone=GMT%2B8 # 数据库连接地址
+   username: root # 数据库用户名
+   password: root1234% # 数据库连接密码
+# security:
+#    user:
+#      name: admin  # 认证用户名
+#      password: enjoy  # 认证密码
+#      roles:
+#       - USER # 授权角色
+logging:
+  level:
+    cn.enjoy.mapper: debug
+
+
+eureka:
+  client: # 客户端进行Eureka注册的配置
+    register-with-eureka: true
+    service-url:
+      #defaultZone: http://localhost:7001/eureka
+      defaultZone: http://admin:enjoy@eureka1:7001/eureka,http://admin:enjoy@eureka2:7002/eureka,http://admin:enjoy@eureka3:7003/eureka
+  instance:
+    instance-id: microcloud-provider-product2
+    prefer-ip-address: true
+    lease-renewal-interval-in-seconds: 2 # 设置心跳的时间间隔（默认是30秒）
+    lease-expiration-duration-in-seconds: 5  # 如果现在超过了5秒的间隔（默认是90秒）
+
+info:
+  app.name: microcloud-provider-product2
+  company.name: enjoy
+  build.artifactId: microcloud-provider-product2
+  build.modelVersion: 4.0.0
+
+

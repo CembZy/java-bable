@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.james.cache.dao.ArticleDao">
+
+
+	<select id="queryArticleVoteByPostTime" resultType="java.util.Map">
+
+		SELECT
+		a.content,
+		a.title,
+		a.post_time,
+		b.votes,
+		b.scores
+		FROM
+		t_article a,
+		t_vote_data b
+		WHERE a.article_id = b.article_id
+		ORDER BY a.post_time ASC
+	</select>
+
+</mapper>

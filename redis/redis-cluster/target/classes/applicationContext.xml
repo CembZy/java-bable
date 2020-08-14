@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+
+    <!-- 读取配置文件信息 -->
+    <context:property-placeholder ignore-unresolvable="true" location="classpath:redis.properties"/>
+
+    <!-- jedis cluster config -->
+    <bean id="genericObjectPoolConfig" class="org.apache.commons.pool2.impl.GenericObjectPoolConfig">
+        <property name="maxTotal" value="1024" />
+        <property name="minIdle" value="8" />
+        <property name="maxIdle" value="100" />
+        <property name="maxWaitMillis" value="1000" />
+        <property name="testOnBorrow" value="true" />
+    </bean>
+
+
+    <bean id="jedisCluster" class="com.james.cache.factory.JedisClusterFactory">
+        <property name="addressConfig" value="classpath:redis.properties"/>
+        <property name="addressKeyPrefix" value="address" />
+
+        <property name="timeout" value="300000" />
+        <!--代表集群有几台redis-->
+        <property name="maxRedirections" value="6" />
+        <property name="genericObjectPoolConfig" ref="genericObjectPoolConfig" />
+    </bean>
+</beans>

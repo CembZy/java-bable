@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microcloud.iml" filepath="$PROJECT_DIR$/microcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-api/microcloud-api.iml" filepath="$PROJECT_DIR$/microcloud-api/microcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-config/microcloud-config.iml" filepath="$PROJECT_DIR$/microcloud-config/microcloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-config-bus/microcloud-config-bus.iml" filepath="$PROJECT_DIR$/microcloud-config-bus/microcloud-config-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-config-bus-client/microcloud-config-bus-client.iml" filepath="$PROJECT_DIR$/microcloud-config-bus-client/microcloud-config-bus-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-config-client/microcloud-config-client.iml" filepath="$PROJECT_DIR$/microcloud-config-client/microcloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-config-eureka-client/microcloud-config-eureka-client.iml" filepath="$PROJECT_DIR$/microcloud-config-eureka-client/microcloud-config-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-config-product-client/microcloud-config-product-client.iml" filepath="$PROJECT_DIR$/microcloud-config-product-client/microcloud-config-product-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-config2/microcloud-config2.iml" filepath="$PROJECT_DIR$/microcloud-config2/microcloud-config2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-config3/microcloud-config3.iml" filepath="$PROJECT_DIR$/microcloud-config3/microcloud-config3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-consumer/microcloud-consumer.iml" filepath="$PROJECT_DIR$/microcloud-consumer/microcloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-consumer-feign/microcloud-consumer-feign.iml" filepath="$PROJECT_DIR$/microcloud-consumer-feign/microcloud-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-consumer-hystrix-dashboard/microcloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/microcloud-consumer-hystrix-dashboard/microcloud-consumer-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-consumer-ribbon/microcloud-consumer-ribbon.iml" filepath="$PROJECT_DIR$/microcloud-consumer-ribbon/microcloud-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-consumer-turbine/microcloud-consumer-turbine.iml" filepath="$PROJECT_DIR$/microcloud-consumer-turbine/microcloud-consumer-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-eureka/microcloud-eureka.iml" filepath="$PROJECT_DIR$/microcloud-eureka/microcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-eureka2/microcloud-eureka2.iml" filepath="$PROJECT_DIR$/microcloud-eureka2/microcloud-eureka2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-eureka3/microcloud-eureka3.iml" filepath="$PROJECT_DIR$/microcloud-eureka3/microcloud-eureka3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-ha-config-eureka/microcloud-ha-config-eureka.iml" filepath="$PROJECT_DIR$/microcloud-ha-config-eureka/microcloud-ha-config-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-provider-product/microcloud-provider-product.iml" filepath="$PROJECT_DIR$/microcloud-provider-product/microcloud-provider-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-provider-product-hystrix/microcloud-provider-product-hystrix.iml" filepath="$PROJECT_DIR$/microcloud-provider-product-hystrix/microcloud-provider-product-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-provider-product2/microcloud-provider-product2.iml" filepath="$PROJECT_DIR$/microcloud-provider-product2/microcloud-provider-product2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-provider-product3/microcloud-provider-product3.iml" filepath="$PROJECT_DIR$/microcloud-provider-product3/microcloud-provider-product3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-provider-user-hystrix/microcloud-provider-user-hystrix.iml" filepath="$PROJECT_DIR$/microcloud-provider-user-hystrix/microcloud-provider-user-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-security/microcloud-security.iml" filepath="$PROJECT_DIR$/microcloud-security/microcloud-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-service/microcloud-service.iml" filepath="$PROJECT_DIR$/microcloud-service/microcloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-sleuth/microcloud-sleuth.iml" filepath="$PROJECT_DIR$/microcloud-sleuth/microcloud-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-stream-consumer/microcloud-stream-consumer.iml" filepath="$PROJECT_DIR$/microcloud-stream-consumer/microcloud-stream-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-stream-provider/microcloud-stream-provider.iml" filepath="$PROJECT_DIR$/microcloud-stream-provider/microcloud-stream-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-zuul-gateway/microcloud-zuul-gateway.iml" filepath="$PROJECT_DIR$/microcloud-zuul-gateway/microcloud-zuul-gateway.iml" />
+    </modules>
+  </component>
+</project>
